@@ -7,4 +7,4 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 This is a simple analysis of a dataset from Kaggle with some loan data. Analysis includes data exploration and visualisation with python libraries numpy, pandas, matplotlib and seaborn.
 
-[Github](https://github.com/tgel0/tgel0.github.io/blob/master/LoanDataNotebook-Feb2018.ipynb)
+[Github](https://github.com/tgel0/tgel0.github.io/blob/master/LoanDataNotebook-Feb2018.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/LoanDataNotebook-Feb2018.ipynb)
