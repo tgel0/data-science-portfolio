@@ -12,4 +12,4 @@ In this notebook I used unsupervised machine learning algorithms such as K-Means
 
 Using python libraries numpy, pandas, matplotlib and seaborn I performed data exploration and visualization on a dataset from Kaggle which includes loan data.
 
-[github](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/LoanDataNotebook.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/tgel0/data-science-portfolio/blob/master/Notebooks/SpotifyUnsupervised.ipynb)
+[github](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/LoanDataNotebook.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/tgel0/data-science-portfolio/blob/master/Notebooks/LoanDataNotebook.ipynb)
