@@ -14,9 +14,9 @@ In this notebook I used unsupervised machine learning algorithms such as K-Means
 
 ## Santander Value Prediction (work in progress!)
 
-In my first official Kaggle competition I used the LGBM framework for my [baseline model](www.kaggle.com/tomigelo/benchmark-model-with-lgbm-1-48) to get a RMSE score of 1.48 (top 65%). Currently, I'm working on an improved version for my final submission.
+In my first official Kaggle competition I used the LGBM framework for my [baseline model](https://www.kaggle.com/tomigelo/benchmark-model-with-lgbm-1-48) to get a RMSE score of 1.48 (top 65%). Currently, I'm working on an improved version for my final submission.
 
-I also created [this notebook]() where I used jupyter widgets to create an interactive histogram of the public score distributions. 
+I also created [this notebook](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/leaderboard.ipynb) where I used jupyter widgets to create an interactive histogram of the public score distributions. 
 
 ## Loan dataset
 
