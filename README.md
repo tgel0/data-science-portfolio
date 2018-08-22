@@ -17,11 +17,11 @@ In this notebook I used unsupervised machine learning algorithms such as K-Means
 In my first official Kaggle competition I used a XGBoost and LightGBM ensemble model which got me a private score of 1.35 (top 40%).
 I also created [this notebook](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/leaderboard.ipynb) where I used jupyter widgets to create an interactive histogram of the public score distributions.
 
-[github](https://github.com/tgel0/data-science-portfolio/Notebooks/KaggleSantanderValuePrediction.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleSantanderValuePrediction.ipynb)
+[github](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleSantanderValuePrediction.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleSantanderValuePrediction.ipynb)
 
 ## Loan dataset
 
-*Fun fact: was is my first notebook ever!*
+*Fun fact: this was my first notebook ever!*
 
 Using python libraries numpy, pandas, matplotlib and seaborn I performed data exploration and visualization on a dataset from Kaggle which includes loan data.
 
