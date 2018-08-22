@@ -19,7 +19,13 @@ I also created [this notebook](https://github.com/tgel0/data-science-portfolio/b
 
 [github](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleSantanderValuePrediction.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleSantanderValuePrediction.ipynb)
 
-## Loan dataset
+## Titanic
+
+For the Titanic competition I used extensive feature engineering as well as an AutoML-powered model with [TPOT](https://epistasislab.github.io/tpot/) to score 0.81818. This got me into the top 2% of all submissions.
+
+[kaggle](https://www.kaggle.com/tomigelo/titanic-with-family-survival-tpot-0-81818) [github](https://github.com/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleTitanic.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/tgel0/data-science-portfolio/blob/master/Notebooks/KaggleTitanic.ipynb)
+
+## Loan Dataset
 
 *Fun fact: this was my first notebook ever!*
 
