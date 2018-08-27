@@ -4,9 +4,13 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 # Standalone Projects
 
-## Spotify Cluster Analysis (Work in Progress!)
+## Twitter 10k
 
-In this notebook I used unsupervised machine learning algorithms such as K-Means and PCA to discover groups of unlabeled data by clustering and visualizing audio features data collected from the official Spotify Web API.
+Following my 10.000th tweet on Twitter, analyzed and visualized all my tweets using Python.
+
+## Spotify Data (Work in Progress!)
+
+Using Python and Bash automatically retrieved music data from the Spotify Web API, analyzed over 100k rows of data and applied unsupervised machine learning algorithms to discover groups of unlabeled data
 
 **Update: notebook files temporarily removed as I'm working on an updated version**
 
