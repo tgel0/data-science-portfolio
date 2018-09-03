@@ -8,6 +8,8 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 Following my 10.000th tweet on Twitter, analyzed and visualized all my tweets using Python.
 
+[blog post ](https://tgel0.github.io/blog/10-visualizations/)[github](https://github.com/tgel0/twitter-10k/blob/master/Twitter10k.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/tgel0/twitter-10k/blob/master/Twitter10k.ipynb)
+
 ## Spotify Data (Work in Progress!)
 
 Using Python and Bash automatically retrieved music data from the Spotify Web API, analyzed over 100k rows of data and applied unsupervised machine learning algorithms to discover groups of unlabeled data
