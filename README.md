@@ -14,7 +14,7 @@ Following my 10.000th tweet on Twitter, analyzed and visualized all my tweets us
 
 Using Python and Bash automatically retrieved music data from the Spotify Web API, analyzed over 100k rows of data and applied unsupervised machine learning algorithms to discover groups of unlabeled data
 
-[repository](https://github.com/tgel0/spotify-data) (**Note: notebook files temporarily removed as I'm working on an updated version**)
+[repository](https://github.com/tgel0/spotify-data)
 
 ## Kaggle
 
